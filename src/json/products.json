@@ -1,0 +1,292 @@
+{
+  "products": [
+    {
+      "rating": 5,
+      "img": "https://mark-ryden.com.ua/image/cache/catalog/mr9191/mr-9191dy-01-1080x1080.jpg",
+      "title": "Louis Vuitton Discovery Backpack",
+      "price": 100,
+      "category": "backpack",
+      "id": 1
+    },
+    {
+      "rating": 3,
+      "img": "https://mark-ryden.com.ua/image/cache/catalog/mr9191/mr-9191dy-01-1080x1080.jpg",
+      "title": "Louis Vuitton Discovery Backpack",
+      "price": 500,
+      "category": "backpack",
+      "id": 2
+    },
+    {
+      "rating": 2,
+      "img": "https://mark-ryden.com.ua/image/cache/catalog/mr9191/mr-9191dy-01-1080x1080.jpg",
+      "title": "Louis Vuitton Discovery Backpack",
+      "price": 1000,
+      "category": "backpack",
+      "id": 3
+    },
+    {
+      "rating": 5,
+      "img": "https://mark-ryden.com.ua/image/cache/catalog/mr9191/mr-9191dy-01-1080x1080.jpg",
+      "title": "Louis Vuitton Discovery Backpack",
+      "price": 5000,
+      "category": "backpack",
+      "id": 4
+    },
+    {
+      "rating": 3,
+      "img": "https://mark-ryden.com.ua/image/cache/catalog/mr9191/mr-9191dy-01-1080x1080.jpg",
+      "title": "Louis Vuitton Discovery Backpack",
+      "price": 600,
+      "category": "backpack",
+      "id": 5
+    },
+    {
+      "rating": 4.5,
+      "img": "https://mark-ryden.com.ua/image/cache/catalog/mr9191/mr-9191dy-01-1080x1080.jpg",
+      "title": "Louis Vuitton Discovery Backpack",
+      "price": 5623,
+      "category": "backpack",
+      "id": 6
+    },
+    {
+      "rating": 5,
+      "img": "https://mark-ryden.com.ua/image/cache/catalog/mr9191/mr-9191dy-01-1080x1080.jpg",
+      "title": "Louis Vuitton Discovery Backpack",
+      "price": 123,
+      "category": "backpack",
+      "id": 7
+    },
+    {
+      "rating": 1,
+      "img": "https://mark-ryden.com.ua/image/cache/catalog/mr9191/mr-9191dy-01-1080x1080.jpg",
+      "title": "Louis Vuitton Discovery Backpack",
+      "price": 555,
+      "category": "backpack",
+      "id": 8
+    },
+    {
+      "rating": 2,
+      "img": "https://mark-ryden.com.ua/image/cache/catalog/mr9191/mr-9191dy-01-1080x1080.jpg",
+      "title": "Louis Vuitton Discovery Backpack",
+      "price": 232,
+      "category": "backpack",
+      "id": 9
+    },
+    {
+      "rating": 3,
+      "img": "https://mark-ryden.com.ua/image/cache/catalog/mr9191/mr-9191dy-01-1080x1080.jpg",
+      "title": "Louis Vuitton Discovery Backpack",
+      "price": 1500,
+      "category": "backpack",
+      "id": 10
+    },
+    {
+      "rating": 4,
+      "img": "https://mark-ryden.com.ua/image/cache/catalog/mr9191/mr-9191dy-01-1080x1080.jpg",
+      "title": "Louis Vuitton Discovery Backpack",
+      "price": 16000,
+      "category": "backpack",
+      "id": 11
+    },
+    {
+      "rating": 4.5,
+      "img": "https://mark-ryden.com.ua/image/cache/catalog/mr9191/mr-9191dy-01-1080x1080.jpg",
+      "title": "Louis Vuitton Discovery Backpack",
+      "price": 633,
+      "category": "backpack",
+      "id": 12
+    },
+    {
+      "rating": 5,
+      "img": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "title": "Louis Vuitton Discovery t-shirts",
+      "price": 1233,
+      "category": "t-shirts",
+      "id": 13
+    },
+    {
+      "rating": 1,
+      "img": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "title": "Louis Vuitton Discovery t-shirts",
+      "price": 1000,
+      "category": "t-shirts",
+      "id": 14
+    },
+    {
+      "rating": 2,
+      "img": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "title": "Louis Vuitton Discovery t-shirts",
+      "price": 5000,
+      "category": "t-shirts",
+      "id": 15
+    },
+    {
+      "rating": 4,
+      "img": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "title": "Louis Vuitton Discovery t-shirts",
+      "price": 5600,
+      "category": "t-shirts",
+      "id": 16
+    },
+    {
+      "rating": 5,
+      "img": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "title": "Louis Vuitton Discovery t-shirts",
+      "price": 3200,
+      "category": "t-shirts",
+      "id": 16
+    },
+    {
+      "rating": 4.5,
+      "img": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "title": "Louis Vuitton Discovery t-shirts",
+      "price": 4000,
+      "category": "t-shirts",
+      "id": 17
+    },
+    {
+      "rating": 3,
+      "img": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "title": "Louis Vuitton Discovery t-shirts",
+      "price": 300,
+      "category": "t-shirts",
+      "id": 18
+    },
+    {
+      "rating": 2.5,
+      "img": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "title": "Louis Vuitton Discovery t-shirts",
+      "price": 5600,
+      "category": "t-shirts",
+      "id": 19
+    },
+    {
+      "rating": 5,
+      "img": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "title": "Louis Vuitton Discovery t-shirts",
+      "price": 1662,
+      "category": "t-shirts",
+      "id": 20
+    },
+    {
+      "rating": 5,
+      "img": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "title": "Louis Vuitton Discovery t-shirts",
+      "price": 1233,
+      "category": "t-shirts",
+      "id": 21
+    },
+    {
+      "rating": 4.5,
+      "img": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "title": "Louis Vuitton Discovery t-shirts",
+      "price": 5000,
+      "category": "t-shirts",
+      "id": 22
+    },
+    {
+      "rating": 3,
+      "img": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "title": "Louis Vuitton Discovery t-shirts",
+      "price": 6700,
+      "category": "t-shirts",
+      "id": 23
+    },
+    {
+      "rating": 2,
+      "img": "https://assets.vogue.com/photos/624dca5a129f17485bb0fa4c/1:1/w_2667,h_2667,c_limit/slide_3.jpg",
+      "title": "Louis Vuitton Discovery shirts",
+      "price": 111,
+      "category": "shirts",
+      "id": 24
+    },
+    {
+      "rating": 1,
+      "img": "https://assets.vogue.com/photos/624dca5a129f17485bb0fa4c/1:1/w_2667,h_2667,c_limit/slide_3.jpg",
+      "title": "Louis Vuitton Discovery shirts",
+      "price": 5640,
+      "category": "shirts",
+      "id": 25
+    },
+    {
+      "rating": 5,
+      "img": "https://assets.vogue.com/photos/624dca5a129f17485bb0fa4c/1:1/w_2667,h_2667,c_limit/slide_3.jpg",
+      "title": "Louis Vuitton Discovery shirts",
+      "price": 222,
+      "category": "shirts",
+      "id": 26
+    },
+    {
+      "rating": 4.5,
+      "img": "https://assets.vogue.com/photos/624dca5a129f17485bb0fa4c/1:1/w_2667,h_2667,c_limit/slide_3.jpg",
+      "title": "Louis Vuitton Discovery shirts",
+      "price": 335,
+      "category": "shirts",
+      "id": 27
+    },
+    {
+      "rating": 4,
+      "img": "https://assets.vogue.com/photos/624dca5a129f17485bb0fa4c/1:1/w_2667,h_2667,c_limit/slide_3.jpg",
+      "title": "Louis Vuitton Discovery shirts",
+      "price": 1600,
+      "category": "shirts",
+      "id": 28
+    },
+    {
+      "rating": 3.5,
+      "img": "https://assets.vogue.com/photos/624dca5a129f17485bb0fa4c/1:1/w_2667,h_2667,c_limit/slide_3.jpg",
+      "title": "Louis Vuitton Discovery shirts",
+      "price": 700,
+      "category": "shirts",
+      "id": 29
+    },
+    {
+      "rating": 2,
+      "img": "https://assets.vogue.com/photos/624dca5a129f17485bb0fa4c/1:1/w_2667,h_2667,c_limit/slide_3.jpg",
+      "title": "Louis Vuitton Discovery shirts",
+      "price": 8000,
+      "category": "shirts",
+      "id": 30
+    },
+    {
+      "rating": 4.5,
+      "img": "https://assets.vogue.com/photos/624dca5a129f17485bb0fa4c/1:1/w_2667,h_2667,c_limit/slide_3.jpg",
+      "title": "Louis Vuitton Discovery shirts",
+      "price": 150000,
+      "category": "shirts",
+      "id": 31
+    },
+    {
+      "rating": 4.5,
+      "img": "https://assets.vogue.com/photos/624dca5a129f17485bb0fa4c/1:1/w_2667,h_2667,c_limit/slide_3.jpg",
+      "title": "Louis Vuitton Discovery shirts",
+      "price": 500,
+      "category": "shirts",
+      "id": 32
+    },
+    {
+      "rating": 5,
+      "img": "https://assets.vogue.com/photos/624dca5a129f17485bb0fa4c/1:1/w_2667,h_2667,c_limit/slide_3.jpg",
+      "title": "Louis Vuitton Discovery shirts",
+      "price": 300,
+      "category": "shirts",
+      "id": 33
+    },
+    {
+      "rating": 1.5,
+      "img": "https://assets.vogue.com/photos/624dca5a129f17485bb0fa4c/1:1/w_2667,h_2667,c_limit/slide_3.jpg",
+      "title": "Louis Vuitton Discovery shirts",
+      "price": 200,
+      "category": "shirts",
+      "id": 34
+    },
+    {
+      "rating": 2,
+      "img": "https://assets.vogue.com/photos/624dca5a129f17485bb0fa4c/1:1/w_2667,h_2667,c_limit/slide_3.jpg",
+      "title": "Louis Vuitton Discovery shirts",
+      "price": 1000,
+      "category": "shirts",
+      "id": 35
+    }
+  ]
+}
