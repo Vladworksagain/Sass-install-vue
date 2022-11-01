@@ -187,7 +187,7 @@ export default {
             this.ethAmountField = ''
           })
       } else {
-        alert('aaaaaaaaaaaaaaaaaaa')
+        window.location.href = this.metamaskDeepLink
         console.log('MetaMask is not installed!')
       }
     },
