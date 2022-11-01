@@ -10,15 +10,13 @@
       </label>
       <button
         class="reset__btn def-button"
+        :disabled="!ethAmountField.length"
         @click="initMetamask"
       >
         <span>
           Donate with Metamask
         </span>
       </button>
-      <a :href="metamaskDeepLink" class="mobile-meta reset__btn">
-        mobile meta
-      </a>
     </div>
     <section class="catalog">
       <div class="container">
