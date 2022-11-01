@@ -119,16 +119,6 @@ export default {
 
 <style scoped>
 
-@media screen and (max-width: 768px) {
-  .def-button {
-    display: none;
-  }
-  .mobile-meta {
-    display: block !important;
-  }
-}
-.mobile-meta {
-  display: none;
-}
+
 
 </style>
