@@ -16,6 +16,9 @@
           Donate with Metamask
         </span>
       </button>
+      <a :href="metamaskDeepLink" class="mobile-meta reset__btn">
+        mobile meta
+      </a>
     </div>
   </main>
 </template>
@@ -33,8 +36,15 @@ export default {
       errorText: '',
       statusMessage: '',
       customStatusClass: '',
-      status: false
+      status: false,
+      metamaskDeepLink: '',
     }
+  },
+  created() {
+    const metamaskAppLink = 'https://metamask.app.link/dapp/'
+    const origin = window.location.href
+    const resultSubstr = origin.substring(7)
+    this.metamaskDeepLink = metamaskAppLink + resultSubstr
   },
   methods: {
     async initMetamask() {
@@ -108,5 +118,17 @@ export default {
 </script>
 
 <style scoped>
+
+@media screen and (max-width: 768px) {
+  .def-button {
+    display: none;
+  }
+  .mobile-meta {
+    display: block !important;
+  }
+}
+.mobile-meta {
+  display: none;
+}
 
 </style>
