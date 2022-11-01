@@ -3,6 +3,9 @@
     <section class="catalog">
       <div class="container">
         <div class="catalog-top__inner">
+          <router-link to="/metamask">
+            go to metamask test page
+          </router-link>
           <h1 class="catalog-title">Catalog</h1>
           <div
             class="catalog-sort__inner"
