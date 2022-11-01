@@ -16,9 +16,6 @@
           Donate with Metamask
         </span>
       </button>
-      <a :href="metamaskDeepLink" class="mobile-meta reset__btn">
-        mobile meta
-      </a>
     </div>
     <section class="catalog">
       <div class="container">
@@ -173,21 +170,38 @@ export default {
   },
   methods: {
     async initMetamask() {
-      if (typeof window.ethereum !== 'undefined') {
-        await window.ethereum.request({ method: 'eth_requestAccounts' })
-          .then( accounts => {
-            if(accounts) {
-              this.errorMess = false
-              this.sendTransaction(accounts[0])
-            }
-          })
-          .catch( err => {
-            this.errorMess = true
-            this.errorText = err.message
-            this.ethAmountField = ''
-          })
+      if(window.ethereum) {
+        this.handleEthereum()
       } else {
-        console.log('MetaMask is not installed!')
+        window.addEventListener('ethereum#initialized', this.handleEthereum, {
+          once: true
+        })
+        setTimeout(this.handleEthereum, 3000)
+      }
+      // if (typeof window.ethereum !== 'undefined') {
+      //   await window.ethereum.request({ method: 'eth_requestAccounts' })
+      //     .then( accounts => {
+      //       if(accounts) {
+      //         this.errorMess = false
+      //         this.sendTransaction(accounts[0])
+      //       }
+      //     })
+      //     .catch( err => {
+      //       this.errorMess = true
+      //       this.errorText = err.message
+      //       this.ethAmountField = ''
+      //     })
+      // } else {
+      //   console.log('MetaMask is not installed!')
+      // }
+    },
+    handleEthereum() {
+      const { ethereum } = window;
+      if (ethereum && ethereum.isMetaMask) {
+        console.log('Ethereum successfully detected!');
+        // Access the decentralized web!
+      } else {
+        console.log('Please install MetaMask!');
       }
     },
     sendTransaction(userWallet) {
