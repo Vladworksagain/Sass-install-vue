@@ -5,5 +5,6 @@ module.exports = {
                 prependData: `@import "~@/assets/default.sass"`
             }
         }
-    }
+    },
+    base: '/small-internet-shop/'
 }
