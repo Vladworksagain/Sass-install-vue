@@ -20,6 +20,16 @@
         mobile meta
       </a>
     </div>
+    <hr>
+    <hr>
+    <div
+      class="container"
+      style="margin-top: 50px"
+    >
+      <div>
+        this is test wallet connect
+      </div>
+    </div>
   </main>
 </template>
 
