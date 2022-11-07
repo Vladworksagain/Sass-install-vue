@@ -1,6 +1,9 @@
 <template>
   <main class="main">
     <div class="container">
+      <div>
+        123
+      </div>
       <label class="def-label">
         <input
           v-model="ethAmountField"
